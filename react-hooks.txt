@@ -23,4 +23,10 @@ src\LayoutEffect.js
 Search for the keywords to learn more about each warning.
 To ignore, add // eslint-disable-next-line to the line before.
 **
-https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository 
+
+$ git remote add origin https://github.com/sajo2460/react-hooks.git 
+$ git push -u origin master 
+
+git pull [<options>] [<repository> [<refspec>…​]] 
+
