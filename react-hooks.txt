@@ -1,0 +1,26 @@
+ npm run start
+
+> react-hooks@0.1.0 start
+> react-scripts start
+
+i ｢wds｣: Project is running at http://192.168.38.1/
+i ｢wds｣: webpack output is served from
+i ｢wds｣: Content not from webpack is served from C:\Users\sajo2\documents\portfolios\urgence\react-hooks\public
+i ｢wds｣: 404s will fallback to /
+Starting the development server...
+
+Compiled with warnings.
+
+src\Callback.js
+  Line 35:41:  React Hook useCallback has a missing dependency: 'fibonacci'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\DebugValue.js
+  Line 6:3:  React Hook useEffect contains a call to 'setIsRaining'. Without a list of dependencies, this can lead to an infinite chain of updates. To fix this, pass [] as a second argument to the useEffect Hook  react-hooks/exhaustive-deps
+
+src\LayoutEffect.js
+  Line 8:3:  React Hook useLayoutEffect contains a call to 'setWidth'. Without a list of dependencies, this can lead to an infinite chain of updates. To fix this, pass [] as a second argument to the useLayoutEffect Hook  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+**
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
